@@ -1,0 +1,1 @@
+tcomment.vba: call delete('/home/robin/.vim/bundle/tComment/doc/tcomment.txt')|call delete('/home/robin/.vim/bundle/tComment/plugin/tcomment.vim')|call delete('/home/robin/.vim/bundle/tComment/autoload/tcomment.vim')
