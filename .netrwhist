@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/robin'
+let g:netrw_dirhist_2='/home/robin/.adobe'
+let g:netrw_dirhist_3='/home/robin/.adobe/Flash_Player'
